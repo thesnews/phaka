@@ -1,4 +1,4 @@
-<?php namespace Modl;
+<?php
 
 // We disable the cache limiter and start the native sessions (we don't want cookies)
 session_cache_limiter(false);
