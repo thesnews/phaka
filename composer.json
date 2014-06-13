@@ -1,0 +1,16 @@
+{
+    "name": "thesnews/phaka",
+    "description": "Multi-server sync and deployment system",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mike Joseph",
+            "email": "mike@statenews.com"
+        }
+    ],
+    "require": {
+        "slim/slim": "2.*",
+        "jlogsdon/cli": "dev-master",
+        "filp/whoops": "1.2.*@dev"
+    }
+}
